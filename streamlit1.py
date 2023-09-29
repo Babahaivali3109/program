@@ -1,0 +1,10 @@
+import streamlit as st
+st.title('S.Baba Hajvali')
+st.header('About Me')
+st.subheader('Education')
+st.text('I am studying III b-tech CSE-AI in SVR ENGINEERING COLLEGE')
+st.info('BABA INFORMATION')
+st.text('Baba is the CRT student in our college') 
+st.success('This is a success message!', icon="✅")
+st.error('This is an error', icon="🚨")
+st.warning('This is a warning', icon="⚠️")
